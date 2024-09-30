@@ -1,4 +1,4 @@
-import aboutpic from './components/Access/mePhoto.jpg'
+import aboutpic from './components/Access/IMG_7492.jpg'
 
 const header = {
   // all the properties are optional - can be left empty or deleted
@@ -12,7 +12,7 @@ const about = {
   name: 'Rachael Clarke',
   role: 'Full stack developer',
   description:
-    'UX/UI bootcamp student living in Atlanta,Georgia. Extremely interested in cutting edge technology, web development and JavaScript back and front end development.',
+    'UX/UI software developer living in Atlanta,Georgia. Extremely interested in cutting edge technology, web development and JavaScript (back and front end development).',
   resume: '',
   social: {
     linkedin: 'https://www.linkedin.com/in/rachaelclarke9941',
