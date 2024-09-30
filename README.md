@@ -10,4 +10,4 @@ https://rachaelsreactportfolio.netlify.app/
 
 ## Screenshot
 
-![alt text](image.png)
+![alt text](image-2.png)
